@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+         {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Compiled by Phumla Makhubo",
+            "title": "Willie’s honesty praised; Cash for job at Soweto school: Today’s top 7 stories in 7 minutes",
+            "description": "News24 brings you the top stories of the day, summarised into neat little packages. Read through quickly or listen to the articles via our customised text-to-speech feature.",
+            "url": "https://www.news24.com/southafrica/news/willies-honesty-praised-cash-for-job-at-soweto-school-todays-top-7-stories-in-7-minutes-20250822-0962",
+            "urlToImage": "https://news24cobalt.24.co.za/resources/029c-1e8aa48868de-712d02b0e889-1000/format/inline/fb909a30bb0c494cba342ef42a67aa33_20250527192628_20250604160506.jpeg",
+            "publishedAt": "2025-08-22T16:02:28",
+            "content": "- Russian companies are recruiting young African women, including from South Africa, to address a labour shortage, raising concerns about their potential deployment in the Ukraine war effort.\r\n- The … [+353 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": null,
+            "title": "Weekender | News24",
+            "description": "The best content from News24 to fuel your weekend.",
+            "url": "https://www.news24.com/weekender",
+            "urlToImage": "https://www.news24.com/images/tenants/news24/Logo.svg",
+            "publishedAt": "2025-08-22T13:29:09",
+            "content": "The best content from News24 to fuel your weekend."
+        }
+    ]
+}
+
